@@ -4,7 +4,10 @@ The project is a simple Tic tac toe game developed using only useState and useEf
 ## Features
 The game retains the history for the players wins. Also captures if the game was draw.
 
-# Getting Started with Create React App
+
+
+
+# Project Introduction
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
